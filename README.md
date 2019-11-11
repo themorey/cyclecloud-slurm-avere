@@ -8,3 +8,4 @@ Download this file to your local computer or Azure Cloud Shell (wherever CycleCl
 
 `cyclecloud import_template -f slurm-avere.txt --force`
 
+NOTE:  the cluster creation will fail if it can not mount the Avere mounts as built in the template.
